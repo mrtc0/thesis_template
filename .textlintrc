@@ -1,0 +1,26 @@
+{
+  "rules": {
+    "max-ten": {
+      "max": 3
+    },
+    "spellcheck-tech-word": true,
+    "no-mix-dearu-desumasu": {
+        "preferInHeader": "",
+        "preferInBody": "ですます",
+        "preferInList": "ですます",
+        "strict": false
+    },
+    "ja-no-mixed-period": {
+        "periodMark": "．"
+    },
+    "no-double-negative-ja": true,
+    "no-dropping-the-ra": true,
+    "no-doubled-conjunction": true,
+    "ja-no-abusage": true,
+    "preset-jtf-style": {
+        "1.2.2.ピリオド(.)とカンマ(,)": false
+    },
+    "no-nfd": true,
+  }
+}
+
