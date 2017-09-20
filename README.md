@@ -19,3 +19,9 @@ $ yarn run build
 ```
 $ yarn run test
 ```
+
+# png to eps
+
+```
+$ yarn run eps
+```
